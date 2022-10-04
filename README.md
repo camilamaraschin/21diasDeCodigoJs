@@ -1,6 +1,6 @@
-# :rocket:Desafio 30 dias de CSS :rocket:
+# :rocket:Desafio 21 dias de CSS :rocket:
 
-No desafio 30 dias de JavaScript eu busco treinar e melhorar todos os dias os meus conhecimentos e habilidades nesta linguagem de estilização, onde todos os dias durante o tempo deste desafio estarei me desafiando a alavancar a minha carreira como desenvovledora Front-end e assim ter a melhorar continua dos meus códigos.
+No desafio 21 dias de JavaScript eu busco treinar e melhorar todos os dias os meus conhecimentos e habilidades nesta linguagem de estilização, onde todos os dias durante o tempo deste desafio estarei me desafiando a alavancar a minha carreira como desenvovledora Front-end e assim ter a melhorar continua dos meus códigos.
 
 ## Regras
 Criar um projeto novo todos os dias <br>
