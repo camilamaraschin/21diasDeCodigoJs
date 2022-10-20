@@ -7,11 +7,15 @@ Criar um projeto novo todos os dias <br>
 Compartilhar o progresso no [LinkedIn](https://www.linkedin.com/in/camilamaraschin/) <br>
 Concluir o desafio até 23:59 <br>
 
-<b>Calculadora IMC</b><br>
+ ## Calculadora IMC <br>
 ![20220927_173050](https://user-images.githubusercontent.com/105385268/192630338-a428c883-acf4-4b1b-b4b7-9a350af6fa49.gif) <br>
-<b>Carregador de arquivo</b><br>
+## Carregador de arquivo
 ![20220927_175025](https://user-images.githubusercontent.com/105385268/192632856-2708cea1-ef2f-4e57-8e5a-3e96e9549542.gif)<br>
-<b>Formulário Dinamico</b><br>
+## Formulário Dinamico
 ![20220928_192635](https://user-images.githubusercontent.com/105385268/192900025-39e8b6e3-1899-4629-a8c0-bf73d3065672.gif)<br>
+## Progresso
 ![20220929_171126](https://user-images.githubusercontent.com/105385268/193141672-c34f9e61-f54f-48ba-a893-970a24b0a464.gif)
+## Galeria de Fotos
 ![20220929_180310](https://user-images.githubusercontent.com/105385268/193141767-7185872c-582a-4e65-8e60-b515da80b8e4.gif)
+## Lâmpada
+![20221020_151920](https://user-images.githubusercontent.com/105385268/197029302-2078838b-cc90-487f-9198-c874f8968cb2.gif)
